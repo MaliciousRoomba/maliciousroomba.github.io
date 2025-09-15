@@ -1,11 +1,20 @@
 body{
-background-color: #fafafa;
+background-color: #FAFAFA;
 }
 
-.color-box{
-background-color: #ff072a;
+.red-box{
+background-color: #FF072A;
 width: 100px;
 height: 100px;
+}
+
+.red600-box{
+background-color: #e53935;
+width: 100px;
+height: 100px;
+}
+
+.blue-box{
 
 
 }
