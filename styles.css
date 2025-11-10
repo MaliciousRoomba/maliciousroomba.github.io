@@ -31,3 +31,69 @@ background-color: #32CD32;
 width: 100px;
 height: 100px;
 }
+
+.cyanblue-box{
+background-color: #00BFAE;
+width: 100px;
+height: 100px;
+}
+
+.electricpurple-box{
+background-color: #8A2BE2;
+width: 100px;
+height: 100px;
+}
+
+.magenta-box{
+background-color: #D5008F;
+width: 100px;
+height: 100px;  
+}
+
+.goldenyellow-box{
+background-color: #FBC02D;
+width: 100px;
+height: 100px;
+}
+
+.deeporange-box{
+background-color: #FF6F00;
+width: 100px;
+height: 100px;
+}
+
+.teal-box{
+background-color: #008080;
+width: 100px;
+height: 100px;
+}
+
+.coral-box{
+background-color: #FF7043;
+width: 100px;
+height: 100px;
+}
+
+.blackout-box{
+background-color: #222222;
+width: 100px;
+height: 100px;
+}
+
+.reseneblackout-box{
+background-color: #211916;
+width: 100px;
+height: 100px;
+}
+
+.darkcharcoal-box{
+background-color: #333333;
+width: 100px;
+height: 100px;
+}
+
+.gray82-box{
+background-color: #D1D1D1;
+width:100px;
+height:100px;
+}
